@@ -1,0 +1,28 @@
+#result{
+    width: 95%;
+    background-color:white;
+    border: solid black 2px;
+}
+input[type= "text"] {
+    width: 100%;
+    height: 100%;
+    font-size: 50px;
+}
+input[type= "button"] 
+{ 
+    background-color:lightblue; 
+    color: black; 
+    border: solid black 1px; 
+    width:100%;
+    height: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 50px;
+}
+
+table{
+    margin-left: 300px ;
+    width: 500px;
+    height: 500px;
+   
+}
